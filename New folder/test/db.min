@@ -1,0 +1,18 @@
+{
+	"db":[
+		{
+			"quest":"berapakah batasan nilai gradifikasi yang diterima",
+			"answer":"senilai kurang 1 juta",
+			"syarat":3
+		},
+		{
+			"quest":"gratifikasi terdiri dari berapa",
+			"answer":"terdiri dari 3 meliputi a,b,c",
+			"syarat":3
+		},
+		{	"quest":"bunga bank apakah termasuk gratifikasi",
+			"answer":"tidak termasuk gratifikasi, karena semua dapat",
+			"syarat":"3"
+		}
+	]
+}
